@@ -275,7 +275,7 @@ td, th {
     text-shadow: none !important
   }
 
-  a, a:visited {
+  article a, a:visited {
     text-decoration: underline
   }
 
