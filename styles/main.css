@@ -1422,7 +1422,7 @@ article a {
 }
 
 a, a:hover, a:visited, a:link, a:active {
-  text-decoration: inherit;
+//  text-decoration: inherit;
 }
 
 a:focus, a:hover {
