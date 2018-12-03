@@ -7817,7 +7817,7 @@ body#tinymce {
 }
 
 .work__project[data-mode=image]:hover .secondary__image {
-  opacity: 1
+  opacity: 0
 }
 
 @media (max-width:992px) {
