@@ -39,11 +39,11 @@ function lg_hidetext() {
 
 function lg_readmore() {
   $(".project__more, .fulltext__closer").on("click tap", function(t) {
-    if($(".project__more").text()==='Read More')
+    if( $(".project__more").text()=='Read More' )
     {
       $(".project__more").text('Close')
     }
-    if($(".project__more").text()==='Close')
+    if( $(".project__more").text()=='Close' )
     {
       $(".project__more").text('Read More')
     }
