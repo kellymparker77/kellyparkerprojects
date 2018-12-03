@@ -1426,7 +1426,7 @@ a, a:hover, a:visited, a:link, a:active {
 }
 
 a:focus, a:hover {
-  text-decoration: none
+  //text-decoration: none
 }
 
 a:focus, a:hover {
