@@ -279,6 +279,10 @@ td, th {
     text-decoration: underline
   }
 
+ a, a:visited {
+    text-decoration: none;
+  }
+
   a[href]:after {
     content: " ("attr(href) ")"
   }
