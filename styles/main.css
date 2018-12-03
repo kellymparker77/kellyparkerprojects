@@ -7455,12 +7455,12 @@ ol li, ol li ul, ol li ul li, ul li, ul li ul, ul li ul li {
 }
 
 .project-type-actions.subproject__item:hover a, .project-type-actions.work__project[data-mode=text]:hover a, .project-type-actions.work__project a:hover, .project-type-actions:hover, body.term-actions .project-type-actions.subproject__item:hover a, body.term-actions .project-type-actions.work__project[data-mode=text]:hover a, body.term-actions .project-type-actions.work__project a:hover, body.term-actions .project-type-actions:hover {
-  color: #622425 !important
+//  color: #622425 !important
 }
 
 @media (max-width:767px) {
   .project-type-actions .work__header .work__title a, body.term-actions .project-type-actions .work__header .work__title a {
-    color: #622425 !important
+  //  color: #622425 !important
   }
 }
 
@@ -7469,12 +7469,12 @@ ol li, ol li ul, ol li ul li, ul li, ul li ul, ul li ul li {
 }
 
 .project-type-objects.subproject__item:hover a, .project-type-objects.work__project[data-mode=text]:hover a, .project-type-objects.work__project a:hover, .project-type-objects:hover, body.term-objects .project-type-objects.subproject__item:hover a, body.term-objects .project-type-objects.work__project[data-mode=text]:hover a, body.term-objects .project-type-objects.work__project a:hover, body.term-objects .project-type-objects:hover {
-  color: #ccb637 !important
+  //color: #ccb637 !important
 }
 
 @media (max-width:767px) {
   .project-type-objects .work__header .work__title a, body.term-objects .project-type-objects .work__header .work__title a {
-    color: #ccb637 !important
+  //  color: #ccb637 !important
   }
 }
 
@@ -7483,12 +7483,12 @@ ol li, ol li ul, ol li ul li, ul li, ul li ul, ul li ul li {
 }
 
 .project-type-installations.subproject__item:hover a, .project-type-installations.work__project[data-mode=text]:hover a, .project-type-installations.work__project a:hover, .project-type-installations:hover, body.term-installations .project-type-installations.subproject__item:hover a, body.term-installations .project-type-installations.work__project[data-mode=text]:hover a, body.term-installations .project-type-installations.work__project a:hover, body.term-installations .project-type-installations:hover {
-  color: #427959 !important
+//  color: #427959 !important
 }
 
 @media (max-width:767px) {
   .project-type-installations .work__header .work__title a, body.term-installations .project-type-installations .work__header .work__title a {
-    color: #427959 !important
+//    color: #427959 !important
   }
 }
 
