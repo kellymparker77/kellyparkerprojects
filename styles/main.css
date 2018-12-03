@@ -1506,7 +1506,12 @@ hr {
   color: #000
 }
 
-h1 .work__title a {text-decoration: none;}
+h1 .work__title a {
+  text-decoration: none;
+}
+.work__title {
+  text-decoration: none;
+}
 
 .h1 .small, .h1 small, .h2 .small, .h2 small, .h3 .small, .h3 small, .h4 .small, .h4 small, .h5 .small, .h5 small, .h6 .small, .h6 small, .work__project[data-mode=text] .work__title .small, .work__project[data-mode=text] .work__title small, h1 .small, h1 small, h2 .small, h2 small, h3 .small, h3 small, h4 .small, h4 small, h5 .small, h5 small, h6 .small, h6 small {
   font-weight: 400;
@@ -7453,7 +7458,7 @@ ol li, ol li ul, ol li ul li, ul li, ul li ul, ul li ul li {
 }
 
 .project-type-actions .work__imagelink, body.term-actions .project-type-actions .work__imagelink {
-  background: #eae0c8
+  //background: #eae0c8
 }
 
 .project-type-actions.subproject__item:hover a, .project-type-actions.work__project[data-mode=text]:hover a, .project-type-actions.work__project a:hover, .project-type-actions:hover, body.term-actions .project-type-actions.subproject__item:hover a, body.term-actions .project-type-actions.work__project[data-mode=text]:hover a, body.term-actions .project-type-actions.work__project a:hover, body.term-actions .project-type-actions:hover {
@@ -7467,7 +7472,7 @@ ol li, ol li ul, ol li ul li, ul li, ul li ul, ul li ul li {
 }
 
 .project-type-objects .work__imagelink, body.term-objects .project-type-objects .work__imagelink {
-  background: #eae0c8
+  //background: #eae0c8
 }
 
 .project-type-objects.subproject__item:hover a, .project-type-objects.work__project[data-mode=text]:hover a, .project-type-objects.work__project a:hover, .project-type-objects:hover, body.term-objects .project-type-objects.subproject__item:hover a, body.term-objects .project-type-objects.work__project[data-mode=text]:hover a, body.term-objects .project-type-objects.work__project a:hover, body.term-objects .project-type-objects:hover {
@@ -7481,7 +7486,7 @@ ol li, ol li ul, ol li ul li, ul li, ul li ul, ul li ul li {
 }
 
 .project-type-installations .work__imagelink, body.term-installations .project-type-installations .work__imagelink {
-  background: #eae0c8
+  //background: #eae0c8
 }
 
 .project-type-installations.subproject__item:hover a, .project-type-installations.work__project[data-mode=text]:hover a, .project-type-installations.work__project a:hover, .project-type-installations:hover, body.term-installations .project-type-installations.subproject__item:hover a, body.term-installations .project-type-installations.work__project[data-mode=text]:hover a, body.term-installations .project-type-installations.work__project a:hover, body.term-installations .project-type-installations:hover {
