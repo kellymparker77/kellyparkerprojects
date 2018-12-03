@@ -7532,7 +7532,7 @@ ol li, ol li ul, ol li ul li, ul li, ul li ul, ul li ul li {
 
 .nav li.active a, .nav li.current-cat a, .nav li.current_page_item a {
    font-weight: bold;
-   color: FF4500;
+   color: #FF4500;
 }
 
 .nav.nav-sub li {
