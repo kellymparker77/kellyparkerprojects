@@ -1506,8 +1506,7 @@ hr {
   color: #000
 }
 
-h1 work__title a:default {text-decoration: none;}
-work__title {text-decoration: none;}
+h1 .work__title a:default {text-decoration: none;}
 
 .h1 .small, .h1 small, .h2 .small, .h2 small, .h3 .small, .h3 small, .h4 .small, .h4 small, .h5 .small, .h5 small, .h6 .small, .h6 small, .work__project[data-mode=text] .work__title .small, .work__project[data-mode=text] .work__title small, h1 .small, h1 small, h2 .small, h2 small, h3 .small, h3 small, h4 .small, h4 small, h5 .small, h5 small, h6 .small, h6 small {
   font-weight: 400;
