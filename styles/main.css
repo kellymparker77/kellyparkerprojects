@@ -275,13 +275,6 @@ td, th {
     text-shadow: none !important
   }
 
-  article a {
-    text-decoration: underline
-  }
-
- a, a:hover, a:visited, a:link, a:active {
-    text-decoration: inherit;
-  }
 
   a[href]:after {
     content: " ("attr(href) ")"
@@ -1422,6 +1415,14 @@ button, input, select, textarea {
 a {
   color: #000;
   text-decoration: none;
+}
+
+article a {
+  text-decoration: underline
+}
+
+a, a:hover, a:visited, a:link, a:active {
+  text-decoration: inherit;
 }
 
 a:focus, a:hover {
