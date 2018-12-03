@@ -7528,7 +7528,8 @@ ol li, ol li ul, ol li ul li, ul li, ul li ul, ul li ul li {
 
 .nav li a {
   padding: 0 0 0 20px;
-  margin: 10
+  margin: 10;
+  text-decoration: none;
 }
 
 .nav li.active a, .nav li.current-cat a, .nav li.current_page_item a {
@@ -7540,6 +7541,7 @@ ol li, ol li ul, ol li ul li, ul li, ul li ul, ul li ul li {
 .nav.nav-sub li {
   margin-bottom: 0;
   text-transform: lowercase
+  text-decoration: none;
 }
 
 .single-project .menu-work {
