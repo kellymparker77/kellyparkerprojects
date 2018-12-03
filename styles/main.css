@@ -279,7 +279,7 @@ td, th {
     text-decoration: underline
   }
 
- a, a:default, a:visited {
+ a, a:any-link, a:visited {
     text-decoration: none;
   }
 
