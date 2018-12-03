@@ -275,7 +275,7 @@ td, th {
     text-shadow: none !important
   }
 
-  article a, a:visited {
+  article a {
     text-decoration: underline
   }
 
@@ -1426,6 +1426,10 @@ a {
 
 a:focus, a:hover {
   text-decoration: none
+}
+
+a:focus, a:hover {
+  color: #777
 }
 
 a:focus, a:hover {
