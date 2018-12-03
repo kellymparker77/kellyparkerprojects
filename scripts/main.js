@@ -41,13 +41,13 @@ function lg_readmore() {
   $(".project__more, .fulltext__closer").on("click tap", function(t) {
     if($(".project__more").innerHTML=='Read More')
     {
-      $(".project__more").innerHTML=='Close'
+      $(".project__more").innerHTML='Close'
     }
     if($(".project__more").innerHTML=='Close')
     {
-      $(".project__more").innerHTML=='Read More'
+      $(".project__more").innerHTML='Read More'
     }
-    
+
     t.preventDefault(), $(".entry-content").toggleClass("faded"), $(".entry__fulltext").toggleClass("show"), $(".project__media").toggleClass("soft")
   })
 }
