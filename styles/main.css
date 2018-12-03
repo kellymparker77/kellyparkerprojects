@@ -7822,9 +7822,9 @@ body#tinymce {
 .work__project[data-mode=image]:hover .secondary__image img {
   opacity: 1;
   mix-blend-mode: screen;
-  -webkit-filter: grayscale(.75);
+  /*-webkit-filter: grayscale(.75);
   -moz-filter: grayscale(.75);
-  filter: grayscale(.75)
+  filter: grayscale(.75)*/
 }
 
 .work__project[data-mode=image]:hover .secondary__image {
