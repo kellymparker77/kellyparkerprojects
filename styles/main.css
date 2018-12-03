@@ -1421,7 +1421,7 @@ button, input, select, textarea {
 
 a {
   color: #000;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:focus, a:hover {
