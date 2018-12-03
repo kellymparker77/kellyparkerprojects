@@ -7819,7 +7819,7 @@ body#tinymce {
 }
 
 .work__project[data-mode=image]:hover .secondary__image {
-  opacity: 0
+  opacity: 1;
 }
 
 @media (max-width:992px) {
